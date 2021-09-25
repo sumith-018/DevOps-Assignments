@@ -1,0 +1,16 @@
+{
+  "name": "team1",
+  "version": "1.0.0",
+  "description": "NodeJs with docker and kubernetes",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Sumith Sai Budde",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1",
+    "hapi": "^18.1.0"
+  },
+  "devDependencies": {}
+}
