@@ -29,4 +29,4 @@ Execute the playbook using the ‘ansible-playbook’ command :
 
 ## Step 5 - Validate the Deployment
 After the playbook runs successfully, open the browser and type :  
-`curl -v http://[public ip address]:[port_number]`
+`$ curl -v http://[public ip address]:[port_number]`
