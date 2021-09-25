@@ -1,0 +1,5 @@
+[nodeserver]
+3.16.42.164 ansible_user=ec2-user ansible_port=22
+
+[nodeserver:vars]
+ansible_ssh_common_args="-o StrictHostKeyChecking=no"
