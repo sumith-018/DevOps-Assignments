@@ -1,6 +1,6 @@
 # Kubernetes Helm package installation,configuration and revision
 
-1. Search for charts in Heml hub.
+1. Search for charts in Helm hub.
 2. Adding charts to local repo and searching for it.
 3. Installing an application using Helm chart.
 4. Checking the status of applications.
